@@ -1,0 +1,108 @@
+[
+  {
+    "text": "frontmatter",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "仿青空",
+        "link": "/frontmatter/00.md"
+      }
+    ]
+  },
+  {
+    "text": "mainmatter",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "01",
+        "link": "/mainmatter/01.md"
+      },
+      {
+        "text": "02",
+        "link": "/mainmatter/02.md"
+      },
+      {
+        "text": "03",
+        "link": "/mainmatter/03.md"
+      },
+      {
+        "text": "04",
+        "link": "/mainmatter/04.md"
+      },
+      {
+        "text": "05 before",
+        "link": "/mainmatter/05-before.md"
+      },
+      {
+        "text": "05",
+        "link": "/mainmatter/05-later.md"
+      },
+      {
+        "text": "06",
+        "link": "/mainmatter/06.md"
+      },
+      {
+        "text": "07-08",
+        "link": "/mainmatter/07-08.md"
+      },
+      {
+        "text": "09",
+        "link": "/mainmatter/09.md"
+      },
+      {
+        "text": "10",
+        "link": "/mainmatter/10.md"
+      },
+      {
+        "text": "11",
+        "link": "/mainmatter/11.md"
+      },
+      {
+        "text": "12",
+        "link": "/mainmatter/12.md"
+      },
+      {
+        "text": "13",
+        "link": "/mainmatter/13.md"
+      },
+      {
+        "text": "14",
+        "link": "/mainmatter/14.md"
+      },
+      {
+        "text": "15",
+        "link": "/mainmatter/15.md"
+      },
+      {
+        "text": "16",
+        "link": "/mainmatter/16.md"
+      },
+      {
+        "text": "17",
+        "link": "/mainmatter/17.md"
+      },
+      {
+        "text": "18",
+        "link": "/mainmatter/18.md"
+      },
+      {
+        "text": "19",
+        "link": "/mainmatter/19.md"
+      }
+    ]
+  },
+  {
+    "text": "appendix",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "BGM标记",
+        "link": "/appendix/a-1-music-cut.md"
+      },
+      {
+        "text": "《青空》部分文案",
+        "link": "/appendix/a-2-text.md"
+      }
+    ]
+  }
+]

@@ -11,7 +11,7 @@
 
 ## 教程说明
 
-- /docs
+- /manuscript
 
   该文件夹为个人对七日课吧《仿青空》教程初步模仿的笔记。
 
@@ -29,8 +29,6 @@
 
 ## 参考文献
 
-- [1] [[静止系]玻璃之空 原版](https://www.bilibili.com/video/BV1ms411f71b)
-
-- [2] [「尝试着前进吧，再一次。」 ](https://www.bilibili.com/video/BV1N741197Bq) @[月谷诗林](https://space.bilibili.com/34635383)
-
-- [3] [《静止系MAD》Ae教程 ](https://www.bilibili.com/video/BV16s411i7Gi) @[七日课吧大触乐园](https://space.bilibili.com/25130118)
+1. [[静止系]玻璃之空 原版](https://www.bilibili.com/video/BV1ms411f71b)
+2. [「尝试着前进吧，再一次。」 ](https://www.bilibili.com/video/BV1N741197Bq) @[月谷诗林](https://space.bilibili.com/34635383)
+3. [《静止系MAD》Ae教程 ](https://www.bilibili.com/video/BV16s411i7Gi) @[七日课吧大触乐园](https://space.bilibili.com/25130118)

@@ -1,0 +1,11 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand-1: #1dccd2;
+    --vp-c-brand-2: #dc2091;
+}
+
+/* font */
+:root {
+    --vp-font-family-base: "LXGW WenKai Screen", sans-serif; /* normal text font */
+    --vp-font-family-mono: "Consolas"; /* code font */
+}
